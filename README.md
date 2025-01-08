@@ -15,11 +15,11 @@
 
 ###
 
-<h1 align="center">Noosrat Jahan</h1>
+<h1 align="left">Noosrat Jahan</h1>
 
 ###
 
-<h1 align="center">Frontend Developer</h1>
+<h1 align="left">Frontend Developer</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hi, <br><br>🌱 I’m growing my skills as a frontend developer, building interactive and user-friendly web interfaces.<br><br>📚 Currently working on projects with React.js, Tailwind CSS, and modern web design principles.<br><br>🎯 Aspiring to create impactful projects that blend creativity with functionality.<br><br>⚡ In my free time,  enjoy upgrading existing projects and fix issues.<br><br>✨ I’m excited to kickstart my career and contribute to innovative teams shaping the future of the web!<br><br>💡 Fun Fact:  Love to drink coffee and enjoy nature!☕</p>
 
 ###
 
