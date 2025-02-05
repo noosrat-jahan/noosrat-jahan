@@ -83,7 +83,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noosrat-jahan&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="noosrat-jahan's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noosrat-jahan&theme=dracula&show_icons=true&hide_border=true&layout=compact" style="height: 200px" alt="noosrat-jahan's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noosrat-jahan&theme=dracula&show_icons=true&hide_border=true&layout=compact" style="height: 198px" alt="noosrat-jahan's Top Languages">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=noosrat-jahan&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
