@@ -73,9 +73,13 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/noosrat-meem/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
+  </a>
+  <img width="12" /> 
+  <a href="https://github.com/noosrat-jahan" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  </a>
 </div>
 
 ###
