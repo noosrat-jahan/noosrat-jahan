@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Hi, I am a Frontend Developer from Bangladesh, motivated to build web applications  containing  nice and visually attractive user interface and smooth user interactivity.<br><br>🌱 I’m growing my skills as a frontend developer, building interactive and user-friendly web interfaces.<br><br>📚 Currently working on projects with React.js, Tailwind CSS, and modern web design principles.<br><br>🎯 Aspiring to create impactful projects that blend creativity with functionality.<br><br>⚡ In my free time,  enjoy upgrading existing projects and fix issues.<br><br>✨ I’m excited to kickstart my career and contribute to innovative teams shaping the future of the web!<br><br>💡 Fun Fact:  Love to drink coffee and enjoy nature!☕</p>
+<p align="left"> Hi, I am a Full Stack Developer from Bangladesh, motivated to build web applications containing nice and visually attractive user interface and smooth user interactivity. I feel fun to remain up-to-date with the  latest tools and technologies relevant to my stack and explore them by implementing  some features in my projects.<br><br>🌱 I’m growing my skills as a frontend developer, building interactive and user-friendly web interfaces.<br><br>📚 Currently working on projects with React.js, Tailwind CSS, and modern web design principles.<br><br>🎯 Aspiring to create impactful projects that blend creativity with functionality.<br><br>⚡ In my free time,  enjoy upgrading existing projects and fix issues.<br><br>✨ I’m excited to kickstart my career and contribute to innovative teams shaping the future of the web!<br><br>💡 Fun Fact:  Love to drink coffee and enjoy nature!☕</p>
 
 ###
 
